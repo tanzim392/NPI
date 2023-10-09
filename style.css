@@ -1,0 +1,123 @@
+body{
+    .half-width{
+        width: 1320px;
+        display:flex;
+        position: relative;
+        font-size: 23px;
+        align-items: center;
+        color:orange;
+       
+    }
+   .bd{
+    width: 1300px;
+    height: 45px;
+    background-color: aquamarine;
+    text-align: center;
+  
+    border: 2px solid orange;
+   }
+    
+    .top img{
+        width: 300px;
+        height:300px;
+        left: 10px;
+    }
+    .bangla{
+        border: 3px solid palegoldenrod;
+        background-color: aqua;
+     
+    }
+    .opr{
+      text-align: center;
+      color:red; 
+    }
+    .sir{
+       display:flex;
+       border: 400px;
+       position: relative;
+       margin: 0 auto;
+       box-shadow: 10px 10px  40px skyblue;
+    
+    }
+    .principle img{
+        width: 100%;
+    }
+    .principle :hover{
+        background-color:orange;
+    }
+    .principle{
+        width: 500px;
+        margin: 30px;
+        position: relative;
+        
+    }
+    .fd{
+        background-color: deeppink;
+        color: chartreuse;
+        width: 200px;
+        height: 30px;
+        text-align: center;
+        align-items: center;
+        margin: 50px auto;
+        box-sizing: 10px 10px  ;
+    }
+    .site{
+        background-color: orange;
+        color: aquamarine;
+        width: 200px;
+        height:30px  ;
+        text-align: center;
+        align-items: center;
+        margin: 50px auto;
+    }
+    .topi{
+        width: 800px;
+        display: flex;
+        position: relative;
+        text-align: center;
+        align-items: center;
+        box-sizing: 10px 10px 10px 40px;
+
+
+    }
+    .topi{
+        margin:20px 260px;
+    }
+    .topi:hover{
+        background-color:aquamarine;
+        border: 3px sandybrown;
+    }
+    .tto{
+        text-align: center;
+    }
+    .list ul{
+        height: 30px;
+        background-color: darkgray;
+     list-style: none;
+     display:block;
+     margin: 30px;
+     border-radius: 5px;
+     font-weight: bold;
+     border-left: 5px solid red;
+    border-right: 5px solid red;
+    position: relative;
+    }
+    .list li{ 
+            text-decoration: none;
+            padding: 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid green;
+            margin: 10px 550px 10px;
+            background-color: orangered;
+            color: aliceblue;
+            
+        }
+        .a:hover {
+                background-color: orange;
+                border-radius: 2px ;
+                border: 3px palevioletred;
+        }
+
+}   
